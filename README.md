@@ -13,5 +13,5 @@ A simple command-line Bill/Expense Manager built with Rust.
 
 # Check installation:
 
-rustc --version
-cargo --version
+a. rustc --version
+b. cargo --version
